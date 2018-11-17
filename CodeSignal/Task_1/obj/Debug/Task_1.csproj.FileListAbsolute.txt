@@ -1,0 +1,7 @@
+D:\Git\CodeSignal\CodeSignal\Task_1\bin\Debug\Task_1.exe.config
+D:\Git\CodeSignal\CodeSignal\Task_1\bin\Debug\Task_1.exe
+D:\Git\CodeSignal\CodeSignal\Task_1\bin\Debug\Task_1.pdb
+D:\Git\CodeSignal\CodeSignal\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+D:\Git\CodeSignal\CodeSignal\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+D:\Git\CodeSignal\CodeSignal\Task_1\obj\Debug\Task_1.exe
+D:\Git\CodeSignal\CodeSignal\Task_1\obj\Debug\Task_1.pdb
