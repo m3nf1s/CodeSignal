@@ -1,0 +1,6 @@
+D:\Git\CodeSignal\CodeSignal\Task_5\bin\Debug\Task_5.exe.config
+D:\Git\CodeSignal\CodeSignal\Task_5\bin\Debug\Task_5.exe
+D:\Git\CodeSignal\CodeSignal\Task_5\bin\Debug\Task_5.pdb
+D:\Git\CodeSignal\CodeSignal\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
+D:\Git\CodeSignal\CodeSignal\Task_5\obj\Debug\Task_5.exe
+D:\Git\CodeSignal\CodeSignal\Task_5\obj\Debug\Task_5.pdb
